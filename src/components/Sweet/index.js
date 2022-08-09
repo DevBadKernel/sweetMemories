@@ -1,5 +1,5 @@
 import React from 'react'
-import Tablero from '../Tablero'
+import Table from '../Table'
 import './style.css'
 
 
@@ -16,7 +16,7 @@ const Sweet = () => {
             </div>
         </div>
         <div>
-            <Tablero/>
+            <Table/>
         </div>
     </div>
   )

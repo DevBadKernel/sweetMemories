@@ -1,0 +1,12 @@
+#tablero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#cartas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 90%;
+}
