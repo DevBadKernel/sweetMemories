@@ -1,4 +1,4 @@
-import Sweet from './components/Sweet';
+import Sweet from './componentes/Sweet';
 import './App.css';
 
 function App() {
