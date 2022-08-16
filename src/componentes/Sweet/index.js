@@ -55,6 +55,6 @@ export default class Sweet extends Component {
                         <Table cartas={cartas} jugada={this.jugada} seleccion1={seleccion1} seleccion2={seleccion2} posElim={posElim}/>
                     </div>
                 </div>
-              )
-    }
+            )
+        }
 }
